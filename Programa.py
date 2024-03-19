@@ -14,9 +14,3 @@ respuesta=random.randint(a,b)
 print(respuesta)
 
 
-
-
-
-
-
-
